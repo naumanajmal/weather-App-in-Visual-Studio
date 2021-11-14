@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\bin\Debug\Mahdi Bu-Ali_Lab11_164.exe.config
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\bin\Debug\Mahdi Bu-Ali_Lab11_164.exe
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\bin\Debug\Mahdi Bu-Ali_Lab11_164.pdb
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\obj\Debug\Mahdi_Bu_Ali_Lab11_164.Properties.Resources.resources
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\obj\Debug\Mahdi_Bu_Ali_Lab11_164.Form1.resources
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\obj\Debug\Mahdi Bu-Ali_Lab11_164.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\obj\Debug\Mahdi Bu-Ali_Lab11_164.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\obj\Debug\Mahdi Bu-Ali_Lab11_164.exe
+C:\Users\HP\source\repos\Mahdi Bu-Ali_Lab11_164\Mahdi Bu-Ali_Lab11_164\obj\Debug\Mahdi Bu-Ali_Lab11_164.pdb
